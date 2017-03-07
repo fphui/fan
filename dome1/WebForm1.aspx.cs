@@ -11,10 +11,7 @@ namespace dome1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
-            double a = 3;
-
-
+            int a = 9;
         }
     }
 }
